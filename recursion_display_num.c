@@ -17,3 +17,4 @@ int displaynum(int n)
     printf("\nvalue of n=>%d",n);
     displaynum(n-1);
 }
+
